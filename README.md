@@ -1,5 +1,1 @@
-#Something
-## Somthing else
--Something new
-I do not care
-''' Seven '''
+Competitive programming and other stuffs.
